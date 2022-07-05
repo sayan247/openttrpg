@@ -8,9 +8,9 @@ What I mean is simple. The gaming systems are based on some kind of a feature/gi
 
 
 The main objective of this system is to hand over the power of choice and consequence, as well narration over to the DM and the PCs. I intend the system to be 
-1.extensible, 
-2.understandable and 
-3.entertaining.
+1. extensible, 
+2. understandable and 
+3. entertaining.
 
 I require your help. Help me craft the world and its system in a way that would make it easy for any player or DM to pick and run their current or future campaign with minimum upkeep!Your input is key!
 

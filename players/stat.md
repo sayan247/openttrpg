@@ -29,3 +29,12 @@ stats that are imposed on the player.
 
 Things like curses come to mind when I talk about this.
 
+###Starting stats
+
+Each players gets by default a 4.0 on their stats placing them squarely in the average. They may also buy/sell points to configure their stats.
+
+A player is awarded a total of 16 points to configure their PC. 
+
+--Remember that getting 0 (anything under a 1.0) in a stat qualifies as a disability (chosen by a player).
+So a player getting a 0 in mental could be either a lunatic/schizophrenic etc.
+
